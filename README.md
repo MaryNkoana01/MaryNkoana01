@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MaryNkoana
-- 👀 I’m interested in SAP Applications
+- 👀 I’m interested in SAP Applications/DevOps
 - 🌱 I’m currently learning Software Development
 - 💞️ I’m looking to collaborate on Application Development and design
 - 📫 You can reach me at nkoanamalebe@mail.com
