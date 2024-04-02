@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mary Nkoana
 - 👀 I’m interested in SAP Applications/Frond-End Development/DevOps
-- 🌱 I’m currently Software Development Student
+- 🌱 I’m currently Software Engineer Intern
 - 📫 You can reach me at nkoanamalebe@gmail.com
 
 <!---
